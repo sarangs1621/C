@@ -47,7 +47,3 @@ Contributions are welcome! Feel free to:
 Got questions or feedback? Reach out via [GitHub Issues](https://github.com/sarangs1621/c-programming-challenges/issues) or connect with us on social media!
 
 Happy coding and enjoy your journey through C programming! 🌟
-
----
-
-Feel free to customize this template with specific details related to your repository!
