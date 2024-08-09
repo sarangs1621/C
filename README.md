@@ -25,7 +25,7 @@ Here’s a glimpse of what you’ll find:
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/yourusername/c-programming-challenges.git
+   git clone https://github.com/sarangs1621/c-programming-challenges.git
    ```
 2. **Navigate to the Directory**:
    ```bash
@@ -44,7 +44,7 @@ Contributions are welcome! Feel free to:
 
 ## 🔗 Connect with Us
 
-Got questions or feedback? Reach out via [GitHub Issues](https://github.com/yourusername/c-programming-challenges/issues) or connect with us on social media!
+Got questions or feedback? Reach out via [GitHub Issues](https://github.com/sarangs1621/c-programming-challenges/issues) or connect with us on social media!
 
 Happy coding and enjoy your journey through C programming! 🌟
 
