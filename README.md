@@ -1,7 +1,3 @@
-Sure! Here’s a catchy README template for your GitHub repository containing basic C programming problems:
-
----
-
 # C Programming Challenges 📚🖥️
 
 Welcome to the **C Programming Challenges** repository! Whether you're a beginner looking to sharpen your skills or a seasoned coder wanting to revisit the basics, this repo is your one-stop shop for essential C programming problems. 🚀
